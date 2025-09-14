@@ -1,1 +1,2 @@
 Repositorio que contiene un ejemplo guiado de cómo usar Bash, GIT y GitHub.
+Paso 7: Primera versión del temario subida a repositorio
